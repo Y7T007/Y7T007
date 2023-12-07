@@ -4,6 +4,8 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/Y7T007/snake_animation/blob/master/ezgif.com-gif-maker (2).gif">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!++It's+Y7T007!;I'm+YASSIR+WAHID...;I'm+a+Software+Engineer+Student;)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm YASSIR WAHID</h1>
 <h3 align="center">aka Y7T007</h3>
 
