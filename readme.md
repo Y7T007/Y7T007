@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/Y7T007/snake_animation/blob/master/banner.gif">
+<img src="https://github.com/Y7T007/snake_animation/blob/master/ezgif.com-gif-maker (2).gif">
 
 <h1 align="center">Hi 👋, I'm YASSIR WAHID</h1>
 <h3 align="center">aka Y7T007</h3>
