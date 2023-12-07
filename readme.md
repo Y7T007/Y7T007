@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y7t007&label=Profile%20views&color=0e75b6&style=flat" alt="y7t007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wahidyassir" target="blank"><img src="https://img.shields.io/twitter/follow/wahidyassir?logo=twitter&style=for-the-badge" alt="wahidyassir" /></a> </p>
 
 - 🔭 I’m currently studiying at [ENSA TETOUAN](https://ensa-tetouan.ac.ma/)
 
-- 🌱 I’m currently learning **Bug bounty hunting, BlockChain,**
+- 🌱 I’m currently learning **Bug bounty hunting.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
