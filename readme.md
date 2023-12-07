@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studiying at [ENSA TETOUAN](https://ensa-tetouan.ac.ma/)
 
-- 🌱 I’m currently learning **Bug hunting, BlockChain,**
+- 🌱 I’m currently learning **Bug bounty hunting, BlockChain,**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
