@@ -74,11 +74,7 @@
     </a>
 </p>
 
-#### Database Management:
-- MariaDB: ![MariaDB Logo](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg)
-- MongoDB: ![MongoDB Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- MySQL: ![MySQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- PostgreSQL: ![PostgreSQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+
 
 
 ![snake gif](https://github.com/Y7T007/snake_animation/blob/output/github-contribution-grid-snake.svg)
