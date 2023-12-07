@@ -4,10 +4,14 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/Y7T007/snake_animation/blob/master/ezgif.com-gif-maker (2).gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!++It's+Y7T007!;I'm+YASSIR+WAHID...;I'm+a+Software+Engineer+Student;)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm YASSIR WAHID</h1>
-<h3 align="center">aka Y7T007</h3>
+
+<h1 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!++I'm+YASSIR+WAHID!;aka+:++Y7T007...;Software+Engineer+Student+...;At+ENSA+TETOUAN;)](https://git.io/typing-svg)
+
+
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y7t007&label=Profile%20views&color=0e75b6&style=flat" alt="y7t007" /> </p>
 
